@@ -755,8 +755,8 @@ grep 'characters\.' test-*.txt
 
 请注意，这当中会出现一些我们没学到的知识，如果你发现现有的知识不足以解决问题的话，请Google之。
 
-下面是我写的脚本，为了便于理解，我将各个命令都分开写了。
-
+下面是我写的脚本，为了便于理解，我将各个命令都分开写了。  
+*(我顺便也写了一个 [Solution](./Solution_of_Shell_Program_Tutorials_by_Illuz.sh) ，也可以参照着看。）*
 
 ```
 #!/bin/bash
